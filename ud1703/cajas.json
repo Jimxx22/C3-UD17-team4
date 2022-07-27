@@ -1,0 +1,56 @@
+[{
+  "_id": "0MN7",
+  "contenido": "Rocks",
+  "valor": 180,
+  "almacen": 3
+},{
+  "_id": "4H8P",
+  "contenido": "Rocks",
+  "valor": 250,
+  "almacen": 1
+},{
+  "_id": "4RT3",
+  "contenido": "Scissors",
+  "valor": 190,
+  "almacen": 4
+},{
+  "_id": "7G3H",
+  "contenido": "Rocks",
+  "valor": 200,
+  "almacen": 1
+},{
+  "_id": "8JN6",
+  "contenido": "Papers",
+  "valor": 75,
+  "almacen": 1
+},{
+  "_id": "8Y6U",
+  "contenido": "Papers",
+  "valor": 50,
+  "almacen": 3
+},{
+  "_id": "9J6F",
+  "contenido": "Papers",
+  "valor": 175,
+  "almacen": 2
+},{
+  "_id": "LL08",
+  "contenido": "Rocks",
+  "valor": 140,
+  "almacen": 4
+},{
+  "_id": "P0H6",
+  "contenido": "Scissors",
+  "valor": 125,
+  "almacen": 1
+},{
+  "_id": "P2T6",
+  "contenido": "Scissors",
+  "valor": 150,
+  "almacen": 2
+},{
+  "_id": "TU55",
+  "contenido": "Papers",
+  "valor": 90,
+  "almacen": 5
+}]

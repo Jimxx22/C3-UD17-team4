@@ -1,0 +1,17 @@
+[{
+  "_id": 14,
+  "nombre": "IT",
+  "presupuesto": 65000
+},{
+  "_id": 37,
+  "nombre": "Accounting",
+  "presupuesto": 15000
+},{
+  "_id": 59,
+  "nombre": "Human Resources",
+  "presupuesto": 240000
+},{
+  "_id": 77,
+  "nombre": "Research",
+  "presupuesto": 55000
+}]

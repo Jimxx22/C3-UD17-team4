@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "nombre": "Sony"
+},{
+  "_id": 2,
+  "nombre": "Creative Labs"
+},{
+  "_id": 3,
+  "nombre": "Hewlett-Packard"
+},{
+  "_id": 4,
+  "nombre": "Iomega"
+},{
+  "_id": 5,
+  "nombre": "Fujitsu"
+},{
+  "_id": 6,
+  "nombre": "Winchester"
+}]
