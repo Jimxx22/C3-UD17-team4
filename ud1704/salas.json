@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "nombre": "Odeon",
+  "idPelicula": 5
+},{
+  "_id": 2,
+  "nombre": "Imperial",
+  "idPelicula": 1
+},{
+  "_id": 3,
+  "nombre": "Majestic",
+  "idPelicula": null
+},{
+  "_id": 4,
+  "nombre": "Royale",
+  "idPelicula": 6
+},{
+  "_id": 5,
+  "nombre": "Paraiso",
+  "idPelicula": 3
+},{
+  "_id": 6,
+  "nombre": "Nickelodeon",
+  "idPelicula": null
+}]

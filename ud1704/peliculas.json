@@ -1,0 +1,37 @@
+[{
+  "_id": 1,
+  "nombre": "Citizen Kane",
+  "calificacionEdad": "PG"
+},{
+  "_id": 2,
+  "nombre": "Singin in the Rain",
+  "calificacionEdad": "G"
+},{
+  "_id": 3,
+  "nombre": "The Wizard of Oz",
+  "calificacionEdad": "G"
+},{
+  "_id": 4,
+  "nombre": "The Quiet Man",
+  "calificacionEdad": null
+},{
+  "_id": 5,
+  "nombre": "North by Northwest",
+  "calificacionEdad": null
+},{
+  "_id": 6,
+  "nombre": "The Last Tango in Paris",
+  "calificacionEdad": "NC-17"
+},{
+  "_id": 7,
+  "nombre": "Some Like it Hot",
+  "calificacionEdad": "PG-13"
+},{
+  "_id": 8,
+  "nombre": "A Night at the Opera",
+  "calificacionEdad": null
+},{
+  "_id": 9,
+  "nombre": "Citizen King",
+  "calificacionEdad": "G"
+}]

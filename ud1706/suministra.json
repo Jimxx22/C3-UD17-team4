@@ -1,0 +1,41 @@
+[{
+  "_id": 1,
+  "idProveedor": "JWD6",
+  "precio": 75
+},{
+  "_id": 2,
+  "idProveedor": "JWD6",
+  "precio": 65
+},{
+  "_id": 3,
+  "idProveedor": "AS2D",
+  "precio": 220
+},{
+  "_id": 4,
+  "idProveedor": "AS2D",
+  "precio": 230
+},{
+  "_id": 5,
+  "idProveedor": "MXW1",
+  "precio": 120
+},{
+  "_id": 6,
+  "idProveedor": "73J1",
+  "precio": 70
+},{
+  "_id": 7,
+  "idProveedor": "LGCD",
+  "precio": 10
+},{
+  "_id": 8,
+  "idProveedor": "MNIW",
+  "precio": 100
+},{
+  "_id": 9,
+  "idProveedor": "DWAS",
+  "precio": 60
+},{
+  "_id": 10,
+  "idProveedor": "HS21",
+  "precio": 40
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": 1,
+  "nombre": "Snapdragon 888+"
+},{
+  "_id": 2,
+  "nombre": "Snapdragon 888"
+},{
+  "_id": 3,
+  "nombre": "Pantalla iphone 12"
+},{
+  "_id": 4,
+  "nombre": "Camaras iphone 12"
+},{
+  "_id": 5,
+  "nombre": "Camara Leica"
+},{
+  "_id": 6,
+  "nombre": "Pantalla Huawei"
+},{
+  "_id": 7,
+  "nombre": "Altavoz Samsung"
+},{
+  "_id": 8,
+  "nombre": "Bateria LG"
+},{
+  "_id": 9,
+  "nombre": "Auriculares AKG"
+},{
+  "_id": 10,
+  "nombre": "Camara Xiaomi"
+},{
+  "_id": 11,
+  "nombre": "Altavoz Sony"
+}]

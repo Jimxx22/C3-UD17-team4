@@ -1,0 +1,51 @@
+[{
+  "_id": "2028643T",
+  "nomApels": "Arancha Toledo",
+  "dniJefe": null,
+  "despacho": 105
+},{
+  "_id": "4485261V",
+  "nomApels": "Juan Luis Mayoral",
+  "dniJefe": "2028643T",
+  "despacho": 101
+},{
+  "_id": "6588740L",
+  "nomApels": "Hajar Rosa",
+  "dniJefe": "2028643T",
+  "despacho": 102
+},{
+  "_id": "1413828R",
+  "nomApels": "Miriam Urbano",
+  "dniJefe": "2028643T",
+  "despacho": 103
+},{
+  "_id": "3030479K",
+  "nomApels": "Eduardo Gordillo",
+  "dniJefe": "2028643T",
+  "despacho": 104
+},{
+  "_id": "0987192K",
+  "nomApels": "Dunia Ojeda",
+  "dniJefe": "2028643T",
+  "despacho": 106
+},{
+  "_id": "8438266D",
+  "nomApels": "Laureano Cañadas",
+  "dniJefe": "2028643T",
+  "despacho": 107
+},{
+  "_id": "6741073D",
+  "nomApels": "Purificacion Lobo",
+  "dniJefe": "2028643T",
+  "despacho": 108
+},{
+  "_id": "9554072N",
+  "nomApels": "Juan-Luis Barros",
+  "dniJefe": "2028643T",
+  "despacho": 109
+},{
+  "_id": "3205097B",
+  "nomApels": "Florencio Castellano",
+  "dniJefe": "2028643T",
+  "despacho": 110
+}]
