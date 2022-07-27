@@ -1,0 +1,41 @@
+[{
+  "_id": 1,
+  "nombre": "Arroz",
+  "precio": 1
+},{
+  "_id": 2,
+  "nombre": "Tomate",
+  "precio": 2
+},{
+  "_id": 3,
+  "nombre": "Patatas fritas",
+  "precio": 1
+},{
+  "_id": 4,
+  "nombre": "Patatas congeladas",
+  "precio": 2
+},{
+  "_id": 5,
+  "nombre": "Nocilla",
+  "precio": 3
+},{
+  "_id": 6,
+  "nombre": "Chocolate Milka",
+  "precio": 2
+},{
+  "_id": 7,
+  "nombre": "Cereales",
+  "precio": 3
+},{
+  "_id": 8,
+  "nombre": "Zanahorias",
+  "precio": 1
+},{
+  "_id": 9,
+  "nombre": "Detergente",
+  "precio": 5
+},{
+  "_id": 10,
+  "nombre": "Leche",
+  "precio": 1
+}]

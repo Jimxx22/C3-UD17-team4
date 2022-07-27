@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2b6"
+  },
+  "dni": "1501770X",
+  "numSerie": "GP01",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1637366400000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1647820800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2b7"
+  },
+  "dni": "8561124Y",
+  "numSerie": "GP02",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1639094400000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1643673600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2b8"
+  },
+  "dni": "9028610E",
+  "numSerie": "GP03",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1619049600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2b9"
+  },
+  "dni": "0748311H",
+  "numSerie": "GP04",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1586476800000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1601337600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2ba"
+  },
+  "dni": "2922936E",
+  "numSerie": "GP05",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1637366400000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1647820800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2bb"
+  },
+  "dni": "0972860M",
+  "numSerie": "GP06",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1642636800000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1651968000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2bc"
+  },
+  "dni": "0748311H",
+  "numSerie": "GP07",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1621468800000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1640044800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2bd"
+  },
+  "dni": "7282724C",
+  "numSerie": "GP08",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1639958400000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1647820800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2be"
+  },
+  "dni": "7906130L",
+  "numSerie": "GP09",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1611100800000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1616284800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0fdccef5523a2022ae2bf"
+  },
+  "dni": "7283808V",
+  "numSerie": "GP10",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1634688000000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1642723200000"
+    }
+  }
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": 1,
+  "nombre": "Facultad de Química"
+},{
+  "_id": 2,
+  "nombre": "Facultad de Matemáticas"
+},{
+  "_id": 3,
+  "nombre": "Facultad de Informática"
+},{
+  "_id": 4,
+  "nombre": "Facultad de Robótica"
+},{
+  "_id": 5,
+  "nombre": "Facultad de Nutrición"
+},{
+  "_id": 6,
+  "nombre": "Facultad de Derecho"
+},{
+  "_id": 7,
+  "nombre": "Facultad de ADE"
+},{
+  "_id": 8,
+  "nombre": "Facultad de Arquitectura"
+},{
+  "_id": 9,
+  "nombre": "Facultad de Física"
+},{
+  "_id": 10,
+  "nombre": "Facultad de Bellas Artes"
+}]

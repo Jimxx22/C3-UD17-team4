@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c0"
+  },
+  "dni": "4269094R",
+  "proyecto": "PE01"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c1"
+  },
+  "dni": "3023634Y",
+  "proyecto": "PE01"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c2"
+  },
+  "dni": "8116451M",
+  "proyecto": "PE05"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c3"
+  },
+  "dni": "6639741E",
+  "proyecto": "PE05"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c4"
+  },
+  "dni": "9889070Y",
+  "proyecto": "PE08"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c5"
+  },
+  "dni": "9069295K",
+  "proyecto": "PE09"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c6"
+  },
+  "dni": "7453884S",
+  "proyecto": "PE09"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c7"
+  },
+  "dni": "7403831M",
+  "proyecto": "PE03"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c8"
+  },
+  "dni": "9837593E",
+  "proyecto": "PE03"
+},{
+  "_id": {
+    "$oid": "62e0fef2ef5523a2022ae2c9"
+  },
+  "dni": "1686069Q",
+  "proyecto": "PE03"
+}]
