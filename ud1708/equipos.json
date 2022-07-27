@@ -1,0 +1,41 @@
+[{
+  "_id": "GP01",
+  "nombre": "Grupo 1",
+  "facultad": 1
+},{
+  "_id": "GP02",
+  "nombre": "Grupo 2",
+  "facultad": 2
+},{
+  "_id": "GP03",
+  "nombre": "Grupo 3",
+  "facultad": 3
+},{
+  "_id": "GP04",
+  "nombre": "Grupo 4",
+  "facultad": 4
+},{
+  "_id": "GP05",
+  "nombre": "Grupo 5",
+  "facultad": 5
+},{
+  "_id": "GP06",
+  "nombre": "Grupo 6",
+  "facultad": 6
+},{
+  "_id": "GP07",
+  "nombre": "Grupo 7",
+  "facultad": 7
+},{
+  "_id": "GP08",
+  "nombre": "Grupo 8",
+  "facultad": 8
+},{
+  "_id": "GP09",
+  "nombre": "Grupo 9",
+  "facultad": 9
+},{
+  "_id": "GP10",
+  "nombre": "Grupo 10",
+  "facultad": 10
+}]

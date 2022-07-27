@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2ac"
+  },
+  "idCajero": 1,
+  "idMaquina": 1,
+  "idProducto": 1
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2ad"
+  },
+  "idCajero": 1,
+  "idMaquina": 1,
+  "idProducto": 2
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2ae"
+  },
+  "idCajero": 2,
+  "idMaquina": 1,
+  "idProducto": 2
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2af"
+  },
+  "idCajero": 2,
+  "idMaquina": 1,
+  "idProducto": 3
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b0"
+  },
+  "idCajero": 3,
+  "idMaquina": 3,
+  "idProducto": 4
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b1"
+  },
+  "idCajero": 4,
+  "idMaquina": 3,
+  "idProducto": 5
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b2"
+  },
+  "idCajero": 5,
+  "idMaquina": 6,
+  "idProducto": 9
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b3"
+  },
+  "idCajero": 5,
+  "idMaquina": 6,
+  "idProducto": 7
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b4"
+  },
+  "idCajero": 7,
+  "idMaquina": 7,
+  "idProducto": 6
+},{
+  "_id": {
+    "$oid": "62e0fb38ef5523a2022ae2b5"
+  },
+  "idCajero": 8,
+  "idMaquina": 7,
+  "idProducto": 5
+}]

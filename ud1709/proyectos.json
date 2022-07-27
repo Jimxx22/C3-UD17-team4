@@ -1,0 +1,41 @@
+[{
+  "_id": "PE01",
+  "nombre": "Estados de la materia",
+  "horas": 12
+},{
+  "_id": "PE02",
+  "nombre": "ADN vegetal",
+  "horas": 8
+},{
+  "_id": "PE03",
+  "nombre": "Electromagentismo",
+  "horas": 22
+},{
+  "_id": "PE04",
+  "nombre": "Estructura vegetal",
+  "horas": 12
+},{
+  "_id": "PE05",
+  "nombre": "Presion atmosferica",
+  "horas": 14
+},{
+  "_id": "PE06",
+  "nombre": "Flotabilidad",
+  "horas": 4
+},{
+  "_id": "PE07",
+  "nombre": "Masa y volumen",
+  "horas": 8
+},{
+  "_id": "PE08",
+  "nombre": "Tension superficial",
+  "horas": 10
+},{
+  "_id": "PE09",
+  "nombre": "Acido acetico",
+  "horas": 4
+},{
+  "_id": "PE10",
+  "nombre": "Teoria cinetica",
+  "horas": 10
+}]
